@@ -28,6 +28,14 @@ mysql/mysql-server:latest
 ### Run the python script, specifying the db_config.json location
 ```python
 python SOAP2MySQL --config db_config.json
-```
+``` 
+
+## Example output
 
 ## Prerequisites
+* Python
+* Docker
+* zeep
+* MySQLdb
+* argparse
+
