@@ -34,11 +34,10 @@ python SOAP2MySQL --config db_config.json
 ![example_output](https://github.com/KoKleppe/NZa/assets/27730191/60fbb2d1-932f-4ed4-973c-54a98052db4c)
 
 ## Prerequisites
-* Python
-* Docker
-* zeep
-* MySQLdb
-* argparse
+* Python (3.10.11)
+* Docker (version 26.0.0, build 2ae903e)
+* zeep (4.2.1)
+* mysqlclient (2.2.4)
 
 ## Author
 Ko Kleppe
