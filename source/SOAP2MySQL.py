@@ -120,7 +120,7 @@ if __name__ == "__main__":
     # Insert data into the table
     insert_data(cursor, table_name, [col.split()[0] for col in columns], data)
 
-    # Query the first 10 countries
+    # Query the first 10 countries in alphabetical order
     query_data(cursor, table_name, [col.split()[0] for col in columns])
 
     # Commit the transaction
