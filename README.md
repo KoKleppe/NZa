@@ -40,3 +40,5 @@ python SOAP2MySQL --config db_config.json
 * MySQLdb
 * argparse
 
+## Author
+Ko Kleppe
