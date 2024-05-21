@@ -25,7 +25,7 @@ mysql/mysql-server:latest
 }
 ```
 
-### Run the python script, specifying the db_config.json location
+### Run the python script, specifying the db_config.json location (default is adjacent to the python script (SOAP2MySQL))
 ```python
 python SOAP2MySQL --config db_config.json
 ``` 
