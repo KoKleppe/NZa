@@ -31,6 +31,7 @@ python SOAP2MySQL --config db_config.json
 ``` 
 
 ## Example output
+![example_output](https://github.com/KoKleppe/NZa/assets/27730191/60fbb2d1-932f-4ed4-973c-54a98052db4c)
 
 ## Prerequisites
 * Python
